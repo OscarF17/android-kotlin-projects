@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_text">Paris es la capital de Francia</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+</resources>

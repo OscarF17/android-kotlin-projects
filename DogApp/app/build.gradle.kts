@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "alanis.jorge.apiactivity"
+    namespace = "alanis.jorge.dogapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "alanis.jorge.apiactivity"
+        applicationId = "alanis.jorge.dogapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
                     if(call.isSuccessful) {
                         postList.clear()
                         if (posts != null) {
-                            postList.addAll(posts)
+                            |postList.addAll(posts)
                         }
                         adapter.notifyDataSetChanged()
                     }
